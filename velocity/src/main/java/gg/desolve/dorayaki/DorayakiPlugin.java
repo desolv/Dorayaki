@@ -11,7 +11,7 @@ import org.slf4j.Logger;
         name = "Dorayaki",
         version = "1.0"
 )
-public class Dorayaki {
+public class DorayakiPlugin {
 
     @Inject
     private Logger logger;
